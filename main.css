@@ -1,0 +1,10 @@
+
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url('IMG/');
+    background-position: center;
+    background-size: cover;
+}
